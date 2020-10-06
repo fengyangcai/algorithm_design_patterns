@@ -11,6 +11,7 @@ public class QuickSort {
         System.out.println(arr);
     }
 
+//快速排序
     public static void quick(int[] arr, int begin, int end) {
         if (begin<end) {
             int temp = arr[begin];
