@@ -14,9 +14,8 @@ public class BubbleSort {
 
     }
 
-    //开始使用
     //冒泡排序的方法
-	//改改改-----------
+    //秀秀唏嘘休息
     public static int[] bubble(int[] arr) {
 
         for (int i = 0; i < arr.length - 1; i++) {
