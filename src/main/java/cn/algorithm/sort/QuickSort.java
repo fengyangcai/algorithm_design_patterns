@@ -12,7 +12,7 @@ public class QuickSort {
     }
 
     //这里是快速排序
-//快速排序
+    //快速排序
     public static void quick(int[] arr, int begin, int end) {
         if (begin<end) {
             int temp = arr[begin];
