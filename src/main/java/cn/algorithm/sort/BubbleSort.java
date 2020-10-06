@@ -15,6 +15,7 @@ public class BubbleSort {
     }
 
     //冒泡排序的方法
+    //测试一下和别人的版本冲突的地方
     public static int[] bubble(int[] arr) {
 
         for (int i = 0; i < arr.length - 1; i++) {
