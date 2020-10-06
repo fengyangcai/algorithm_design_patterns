@@ -15,7 +15,7 @@ public class BubbleSort {
     }
 
     //冒泡排序的方法
-	//地几次修改
+	//改改改-----------
     public static int[] bubble(int[] arr) {
 
         for (int i = 0; i < arr.length - 1; i++) {
