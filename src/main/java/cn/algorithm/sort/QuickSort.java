@@ -21,6 +21,7 @@ public class QuickSort {
             while (j > i) {
 
                 while (i < j && arr[j] > temp) {
+
                     j--;
                 }
                 //找到了比temp小的就把这个值放到arr[i]；
